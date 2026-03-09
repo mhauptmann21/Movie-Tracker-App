@@ -20,11 +20,11 @@ This project was created using React and JavaScript. Users are able to see curre
 
 ### Executing program
 
-* Find the directory
+* Locate to the directory
 ```
 cd frontend
 ```
-* Intall all dependencies
+* Install all dependencies
 ```
 npm i
 ```
@@ -44,5 +44,6 @@ npm audit fix
 
 ex. Madison Hauptmann  
 
-credit to "Tech With Tim" on Youtube
+### Credit to "Tech With Tim" on Youtube
+
 Thanks for the guide!
