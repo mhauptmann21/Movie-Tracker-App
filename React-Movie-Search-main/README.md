@@ -3,9 +3,9 @@ A movie search engine built using React and JavaScript. Users can see and search
 
 # How to Access
 1. Download the zip file or clone the repository
-2. Navigate to project directory
+2. Navigate to project directory:
      cd frontend
-4. Open the terminal and install the required dependencies
+4. Open the terminal and install the required dependencies:
      npm i
-5. Run the project
+5. Run the project:
      npm run dev
