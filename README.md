@@ -4,7 +4,7 @@ Movie Search Engine application - React + Vite
 
 ## Description
 
-This project was created using React and JavaScript. Users are able to see current popular movies on the home page, and search for any movies using the search bars. They are then able to favorite the movies and track those of the "Favorites" page.
+This project was created using React and JavaScript. Users are able to see current popular movies on the home page, and search for any movies using the search bars. They are then able to favorite the movies and track those on the "Favorites" page.
 
 ## Getting Started
 
@@ -41,8 +41,8 @@ npm audit fix
 ```
 
 ## Authors
-
-ex. Madison Hauptmann  
+ 
+Madison Hauptmann  
 
 ### Credit to "Tech With Tim" on Youtube
 
