@@ -44,6 +44,13 @@ npm audit fix
  
 Madison Hauptmann  
 
-### Credit to "Tech With Tim" on Youtube
+### Credit to "Tech With Tim" on YouTube
 
 Thanks for the guide!
+
+## Images
+
+<img width="2504" height="1345" alt="HomePage" src="https://github.com/user-attachments/assets/9b54fbd6-5f45-4230-8a7d-09b6521a0569" />
+<img width="2505" height="1337" alt="FavoritesPage" src="https://github.com/user-attachments/assets/46680ac0-320d-440b-a635-7ddf1cb9c7a5" />
+
+
